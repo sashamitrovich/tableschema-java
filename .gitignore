@@ -33,6 +33,8 @@ hs_err_pid*
 .project
 .settings/
 
+# vscode
+.vscode/
 
 
 /bin/
